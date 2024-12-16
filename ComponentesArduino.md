@@ -124,6 +124,29 @@
 
 ---
 
+### Jumpers
+**Jumpers - Macho/Fêmea - 20 Unidadesm**
+**Especificações:**  
+- **Tipo:** Jumpers Macho/Fêmea  
+- **Quantidade:** 20 unidades  
+- **Comprimento:** 20cm  
+
+---
+
+### Barra de pin (1 Barra) 
+**Barra de Pinos Fêmea Soquete 1x40 - 180°**
+
+**Especificações Técnicas:**  
+- **Passo (Espaçamento):** 2.54mm (Padrão dos protoboards)  
+- **Dimensões:** 1x40  
+- **Ângulo:** 180°  
+- **Número de Pinos:** 40  
+- **Número de Fileiras:** 1  
+- **Cor:** Preta  
+
+---
+
+
 ### Placa Arduino Uno (1 Placa)
 **Placa Arduino Uno R3 ATmega328P DIP ATmega16U2**  
 **Especificações Técnicas:**
