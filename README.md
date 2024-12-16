@@ -36,7 +36,7 @@ O código principal está localizado no arquivo `codigo_robo_sumo_arduino` e inc
 
 ## Como Executar o Projeto
 1. Carregue o código `codigo_robo_sumo_arduino` no Arduino usando a IDE Arduino.
-2. Insira as bibliotecas dentro da pasta [Bibliotecas](Bibiotecas)
+2. Insira as bibliotecas dentro da pasta [Bibliotecas](Bibliotecas)
 3. Conecte os componentes descritos em `ComponentesArduino.md`.
 4. Ligue o robô e coloque-o na arena.
 ---
